@@ -1,0 +1,29 @@
+java.util.regex.Pattern;
+public class {
+public String deeku 
+regid [VR-][0-9]{4}
+vehicle '[A-Z]{2}[0-9]{2}[A-Z]{2}[0-9]{4}'
+[J|K|S]{1}
+if(!=(Pattern.matches(regid,regn)) {
+throw new Invalid
+
+equalsWith,>,<
+
+import java.util.stream.Collectors;
+.util.stream.Stream;
+if list is given .collect(Collectors.toList());
+
+if stream is given 
+programlist.stream().filter()v->v.(getTrianername).equals("deeku"
+
+sort::
+
+if sort is given
+
+return matchlist.stream().sorted((m1,m2)->m1.getmatchDate().compareTo()m2.getmatchDate()));
+
+Distinct::
+
+return matchList.stream().map(Dish::getDishName).distinct();
+
+filter,map,distinct.
